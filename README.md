@@ -10,7 +10,7 @@ Projeto desenvolvido como parte do curso de HTML e CSS do Curso em Vídeo. A pro
 
 ## Acesse o projeto
 
-<a href="https://luckpoet.github.io/projeto-android/" target="_blank">Clique aqui para acessar o projeto</a>
+<a href="https://luckpoet.github.io/projeto-android/">Clique aqui para acessar o projeto</a>
 
 
 ## Observações
